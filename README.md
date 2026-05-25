@@ -2,7 +2,7 @@
 
 This repository provides the official implementation of our paper:
 > Kaiqi Chen, Yang Qin, Changhao He, Xi Peng, Peng Hu
-> *DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs*, ICML 2026 (spotlight) 👉 [[Paper]](https://openreview.net/forum?id=QMf9CBpEIf&noteId=FyjOzt6FFy)
+> *DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs*, ICML 2026 (Oral) 👉 [[Paper]](https://openreview.net/forum?id=QMf9CBpEIf&noteId=FyjOzt6FFy)
 
 ## Introduction
 
